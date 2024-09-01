@@ -1,0 +1,31 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "name": "react-native-otp-input-custom_view",
+  "version": "1.0.1",
+  "description": "This is customizable otp/pin input view ",
+  "main": "dist/OtpTextView.js",
+  "types": "dist/OtpTextView.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrayagN/react-native-otp-input-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "keyboard",
+    "otp",
+    "pin",
+    "input",
+    "view",
+    "react-native-otp-input",
+    "react-native-otp-input-view"
+  ],
+  "author": "Prayag N",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.3.5",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.5.4"
+  }
+}
