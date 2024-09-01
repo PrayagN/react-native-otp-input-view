@@ -3,9 +3,9 @@
     "build": "tsc"
   },
   "name": "react-native-otp-input-custom_view",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This is customizable otp/pin input view ",
-  "main": "dist/OTPInputView.js",
+  "main": "dist/index.ts",
   "types": "dist/OTPInputView.d.ts",
   "repository": {
     "type": "git",
